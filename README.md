@@ -1,4 +1,4 @@
-# BoLuatServer
+# Bộ Luật Của Server Kietgaming
 Bộ Luật Hình Sự Của Server kietgamingserver2.aternos.me:61144
 
 Khoản 1 Đối Với Staff
