@@ -62,28 +62,28 @@ các lần tiếp theo cộng dồn
 
 Đối với các trường hợp hackop,killaura,...ban Vĩnh Viễn
 
-Được Phép AutoFarm Nhưng Chỉ Được Ở Trong /is Của Bản Thân.Không Áp Dụng Ngoài /is
+Được Phép AutoFarm Nhưng Chỉ Được Ở Trong /is Của Bản Thân.Không Áp Dụng Ngoài /is.
 
 Nếu Vi Phạm:
 
 Jail 12h
 
-Nếu Vi Phạm Quá Nhiều Lần...ban Vĩnh Viễn
+Nếu Vi Phạm Quá Nhiều Lần...ban Vĩnh Viễn.
 
 Bổ Sung Thêm:
 
 (áp dụng đối với trader và builder)
 
-Không Được Làm Đồ Quá Mạnh(trừ đồ donate nhưng cũng không được quá mạnh)
+Không Được Làm Đồ Quá Mạnh(trừ đồ donate nhưng cũng không được quá mạnh).
 
-Không Được Xây Các Thứ Linh Tinh Không Liên Quan Gì Đến Server
+Không Được Xây Các Thứ Linh Tinh Không Liên Quan Gì Đến Server.
 
 Vi Phạm Những Điều Trên:
 
 Jail + Mute= 12h
 
-Vi Phạm Quá Nhiều Lần...Tước Rank Và Quyền
+Vi Phạm Quá Nhiều Lần...Tước Rank Và Quyền.
 
-Trích:Từ Bộ Luật Của Hoangkageok
+Trích:Từ Bộ Luật Cũ Của Hoangkageok của server thời kì đầu.
 
 Link: https://github.com/hoangkageok/Lu-t-l-server-kietgaming2222.aternos.mee/issues/1?fbclid=IwAR3QgpVZsllyViVQ95XyzK4JE_NLKNZWfFUIu1j6nQJLKR8ay7_OnWuB2xY?fbclid=IwAR3QgpVZsllyViVQ95XyzK4JE_NLKNZWfFUIu1j6nQJLKR8ay7_OnWuB2xY
