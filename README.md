@@ -1,9 +1,14 @@
 # BoLuatServer
 Bộ Luật Hình Sự Của Server kietgamingserver2.aternos.me:61144
+
 Khoản 1 Đối Với Staff
+
 (Gồm helper,police)
+
 Staff có nhiệm vụ Giúp member khi member hỏi gì phải tích cực trả lời không được tiêu cực!
+
 =>Vi Phạm Điều Trên Jail 2h
+
 Mức Án Phạt Sẽ Tăng Tiến Nếu Cứ Tiếp Tục Tái Phạm
 Staff không được vô cớ band player, Không Bị Những lời Khiêu Khích vd: band em đi, thách dám band,...Chỉ được phép band khi member phá server hay chửi server
 =>Vi Phạm = Cắt Chức
