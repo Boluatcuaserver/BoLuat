@@ -70,11 +70,11 @@ Jail 12h
 
 Nếu Vi Phạm Quá Nhiều Lần...ban Vĩnh Viễn
 
-Bổ Sung
+Bổ Sung Thêm:
 
 (áp dụng đối với trader và builder)
 
-Không Được Làm Đồ Quá Mạnh(trừ đồ donate)
+Không Được Làm Đồ Quá Mạnh(trừ đồ donate nhưng cũng không được quá mạnh)
 
 Không Được Xây Các Thứ Linh Tinh Không Liên Quan Gì Đến Server
 
