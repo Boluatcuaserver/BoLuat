@@ -21,7 +21,7 @@ Staff không được phá member khi chơi Nếu vi phạm sẽ quy vào tội 
 
 Trêu Đùa Member Không Quá Đà chỉ ở mức giới hạn 1 lần/ ngày nếu quá quy vào tội lạm dụng chức vụ, tham ô
 
-Nếu member phát hiện ra staff lạm dụng chức vụ, tham ô báo với ADMIN có thể nhận thưởng hoặc tăng rank hiện tại của bản thân
+Nếu member phát hiện ra staff lạm dụng chức vụ, tham ô báo với ADMIN
 
 Khoản 2 Đối Với Member
 
@@ -60,7 +60,29 @@ Jail 2h
 
 các lần tiếp theo cộng dồn
 
-Đối với các trường hợp hackop, killaura,phá server,...ban Vĩnh Viễn
+Đối với các trường hợp hackop,killaura,...ban Vĩnh Viễn
+
+Được Phép AutoFarm Nhưng Chỉ Được Ở Trong /is Của Bản Thân.Không Áp Dụng Ngoài /is
+
+Nếu Vi Phạm:
+
+Jail 12h
+
+Nếu Vi Phạm Quá Nhiều Lần...ban Vĩnh Viễn
+
+Bổ Sung
+
+(áp dụng đối với trader và builder)
+
+Không Được Làm Đồ Quá Mạnh(trừ đồ donate)
+
+Không Được Xây Các Thứ Linh Tinh Không Liên Quan Gì Đến Server
+
+Vi Phạm Những Điều Trên:
+
+Jail + Mute= 12h
+
+Vi Phạm Quá Nhiều Lần...Tước Rank Và Quyền
 
 Trích:Từ Bộ Luật Của Hoangkageok
 
